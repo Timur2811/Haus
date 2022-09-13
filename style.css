@@ -153,14 +153,6 @@ body{
 /* End section feedback */
 /* Start section main_third */
 
-.stick{
-    position: absolute;
-    height: 1px;
-    left: 4.17%;
-    right: 4.17%;
-    top: 1082.41px;
-    background-color: #BDBDBD;
-}
 
 .text2{
     margin-top: 104.59px;
@@ -172,58 +164,44 @@ body{
     height: 160px;
     text-align: center;
     font-size: 64px;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto';
 }
+/* FOURTHHHHHHH */
 
-.img{
+.fourth{
     display: flex;
     justify-content: space-around;
 }
-
-.text3{
-    display: flex;
-    justify-content: space-around;
-    font-size: 30px;
-    font-family: 'Playfair Display', serif;
-    
-}
-
-.text4{
-    display: flex;
+.fourth p{
     text-align: center;
+    font-size: 30px;
 }
 
-.text4 p{
+/* FIIIITH */
+
+.fith{
+    display: flex;
+    justify-content: space-around;
+}
+.fith p{
+    text-align: center;
     font-size: 16px;
     font-family: 'Roboto';
 }
 
-.button3{
-    display: flex;
-    justify-content: space-around;
-}
+/* 6666666666 */
 
-.button3 button{
+
+.sixth button{
+    background-color: black;
+    color: #fff;
     width: 180px;
     height: 52px;
-    background-color: black;
-    color: white;
     font-size: 12px;
     font-family: 'Roboto';
 }
 
-.fourth{
-    padding: 140px;
-    
+.sixth{
+    display: flex;
+    justify-content: space-around;
 }
-
-.stick2{
-    position: absolute;
-    height: 1px;
-    left: 4.17%;
-    right: 4.17%;
-    background-color: #BDBDBD;
-    margin-top: 140px;
-}
-
-
